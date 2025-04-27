@@ -34,3 +34,4 @@ if __name__ == "__main__":
     
     time_diff = time.time() - start
     print(f"No of {total} images downloaded within {time_diff} seconds!!!")
+
